@@ -58,11 +58,9 @@
 
 *Делаем «хард» откат коммита. Комманда: `git reset --hard HEAD~1`*
 
-![image](https://github.com/4018KSigachevaDN/LR6/blob/master/images/17.png)
+*И создаем ветку для отчёта. Комманда: `git branch report`*
 
-*Создаем ветку для отчёта. Комманда: `git branch report`*
-
-![image](https://github.com/4018KSigachevaDN/LR6/blob/master/images/18.png)
+![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/report.jpg)
 
 Оформляем отчёт в файле README.md 
 
