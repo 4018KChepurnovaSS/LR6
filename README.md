@@ -1,9 +1,9 @@
 # Лабораторная работа №6
 *Сначала нужно создать копию [репозитория](https://github.com/Kurtyanik/LR6/) в личное хранилище.*
 
-![image]()
+![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/1%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD%202%20%D0%BB%D0%B0%D0%B1%D0%B0.png)
 
-*Затем настраиваем клиент git, вводим имя пользователя и email. Комманды: `git config --global user.name <username>`; `git config --global user.email <email>`.*
+*Затем нужно настроить клиент git, для этого вводим имя пользователя и email. Комманды: `git config --global user.name <username>`; `git config --global user.email <email>`.*
 
 ![image](https://github.com/4018KSigachevaDN/LR6/blob/master/images/2.png)
 
