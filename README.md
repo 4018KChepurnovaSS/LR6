@@ -44,17 +44,17 @@
 
 *Удаляем побочную ветку после успешного слияния. Комманда: `git branch -d branch1`*
 
-![image](https://github.com/4018KSigachevaDN/LR6/blob/master/images/12.png)
+![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/2021-11-18%20(13).png)
 
 *Создаем изменения и фиксируем их, оставляя комментарии,несколько раз. Команды:`echo hello > change1.txt/change2.txt`; `git add change1.txt/change2.txt`; `ggit commit -m "Change1.txt/Change2.txt"`*
 
-![image](https://github.com/4018KSigachevaDN/LR6/blob/master/images/13.png)
-![image](https://github.com/4018KSigachevaDN/LR6/blob/master/images/14.png)
+![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/2021-11-18%20(16).png)
+![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/2021-11-18%20(15).png)
 
 *Просмотр комментариев.*
 
-![image](https://github.com/4018KSigachevaDN/LR6/blob/master/images/15.png)
-![image](https://github.com/4018KSigachevaDN/LR6/blob/master/images/16.png)
+![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/2021-11-18%20(17).png)
+![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/2021-11-18%20(18).png)
 
 *Делаем «хард» откат коммита. Комманда: `git reset --hard HEAD~1`*
 
