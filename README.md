@@ -23,7 +23,7 @@
 
 ![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/git%20log.png)
 
-*Просмотрим существующие ветки в текщем репозитории, затем перейдем в ветку branch1. Комманды: `git branch`; `git checkout branch1`.*
+*Просмотрим существующие ветки в текущем репозитории, затем перейдем в ветку branch1. Комманды: `git branch`; `git checkout branch1`.*
 
 ![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/git%20Branch.png)
 
@@ -40,6 +40,7 @@
 *Разрешаем возникший конфликт: в теории конфликт возник из-за того, что файл mergefile.txt не отслеживается. Проверив это и убедившись, добавляем файл для отслеживания, оставляем коммит. Команды:`git status`; `git add mergefile.txt`; `git commit -m "Branches"`.*
 
 ![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/2021-11-18%20(11).png)
+
 ![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/2021-11-18%20(12).png)
 
 *Удаляем побочную ветку после успешного слияния. Комманда: `git branch -d branch1`*
@@ -56,8 +57,7 @@
 ![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/2021-11-18%20(17).png)
 ![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/2021-11-18%20(18).png)
 
-*Делаем «хард» откат коммита. Комманда: `git reset --hard HEAD~1`*
-
+*Делаем «хард» откат коммита. Комманда: `git reset --hard HEAD~1`* 
 *И создаем ветку для отчёта. Комманда: `git branch report`*
 
 ![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/report.jpg)
@@ -66,8 +66,8 @@
 
 *Получаем итоговую историю операций.  Комманда: `git log`*
 
-![image](https://github.com/4018KSigachevaDN/LR6/blob/master/images/19.png)
-![image](https://github.com/4018KSigachevaDN/LR6/blob/master/images/20.png)
+![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/report_log1.png)
+![image](https://github.com/4018KChepurnovaSS/LR6/blob/master/screens/report_log2.png)
 
 После редактирования отчета, его нужно будет сохранить и произвести команды `git add` и `git commit`.
 
